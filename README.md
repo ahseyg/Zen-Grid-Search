@@ -29,7 +29,7 @@ Changes the default vertical URL bar suggestions into a simple, customizable gri
 ## Screenshots
 
 ### Premium Grid View
-![Zen Grid Search](assets/image.png)
+![Zen Grid Search](assets/image2.png)
 
 ### Customizable Preferences
 Control the look and feel directly from the Zen Mods settings panel without touching any CSS.
