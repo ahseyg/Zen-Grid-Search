@@ -1,0 +1,12 @@
+{
+  "id": "zen-grid-search",
+  "name": "Zen Grid Search",
+  "description": "Changes the default vertical URL bar suggestions into a simple grid layout. Reverts to normal when you start typing.",
+  "version": "1.0.0",
+  "author": "ahseyg",
+  "theme": {
+    "styles": {
+      "chrome": ["userChrome.css"]
+    }
+  }
+}
