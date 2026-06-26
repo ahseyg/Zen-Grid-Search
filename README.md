@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff&style=flat" alt="Zen Browser"/></a>
   <img src="https://img.shields.io/github/stars/ahseyg/zen-grid-search?style=flat&color=3498db" alt="Stars"/>
   <img src="https://img.shields.io/github/issues/ahseyg/zen-grid-search?style=flat&color=e74c3c" alt="Issues"/>
   <img src="https://img.shields.io/github/license/ahseyg/zen-grid-search?style=flat&color=2ecc71" alt="License"/>
