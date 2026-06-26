@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/github/stars/ahseyg/zen-grid-search?style=flat&color=3498db" alt="Stars"/>
   <img src="https://img.shields.io/github/issues/ahseyg/zen-grid-search?style=flat&color=e74c3c" alt="Issues"/>
   <img src="https://img.shields.io/github/license/ahseyg/zen-grid-search?style=flat&color=2ecc71" alt="License"/>
+  <img src="https://img.shields.io/github/v/release/ahseyg/zen-grid-search?style=flat&color=f39c12" alt="Version"/>
 </p>
 
 <p align="center">
